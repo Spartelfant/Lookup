@@ -1,3 +1,9 @@
+**This addon used to be available at https://github.com/luskanek/Lookup, however that repo disappeared recently. So I made this repo and uploaded my local copies of the files.**
+
+Below this line you'll find the original readme.
+
+***
+
 # Lookup
 
 Lookup is a World of Warcraft Vanilla (1.12) addon that adds a search bar to the default backpack frame that can be used to search the bags, bank and bank bags for various items using the available filters.
